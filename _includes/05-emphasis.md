@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Synopsis
+_**Data Maestro**_ | Data Engineer + Data Scientist | **Loves** the continuous improvement process of the data pipeline to provide _actionable_ information. 
