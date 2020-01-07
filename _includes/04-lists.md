@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Some of my favorite things
+- Song : **One** 
+  - by Metallica
+- Movie : **Highlander**
+- Book : **Armor**
